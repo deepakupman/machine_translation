@@ -1,2 +1,3 @@
-# machine_translation
-Neural Machine Translation
+# PyTorch Examples
+- Neural Machine Translation (Attention)
+- Name Classification (Char RNN)
